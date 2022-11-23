@@ -1,6 +1,6 @@
-# CLEF 2022 CheckThatLab Task3
+# ur-iw-hnt at CheckThat! 2022: Cross-lingual Text Summarization for Fake News Detection
 
-This is the repository of team **ur-iw-hnt**. You can read our paper [here](https://ceur-ws.org/Vol-3180/paper-60.pdf).
+This is the repository of team **ur-iw-hnt**. You can find our paper [here](https://ceur-ws.org/Vol-3180/paper-60.pdf).  
 Our fine-tuned models are available here: [Hugging Face Repository](https://huggingface.co/hntran/CLEF_2022_CheckThatLab_Task3)  
 All TSV files of every model are available in the `TSV_outputs` folder.  
 To check the test results, just run this (e.g., for the file `extractive-t5-3b_en.tsv`):  
